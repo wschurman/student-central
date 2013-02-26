@@ -6,7 +6,7 @@ Building a better Student Center
 ToDo
 ====
 
-- Finish modles, clean up
+- Finish models, clean up
 - Create Admin interface, order fields, fix creation abilities
 - Create Schedule interface
 
